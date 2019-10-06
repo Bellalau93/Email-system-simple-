@@ -1,0 +1,10 @@
+D:\engineer program（course design）\sendandreceive\sendandreceive\bin\Debug\sendandreceive.exe.config
+D:\engineer program（course design）\sendandreceive\sendandreceive\bin\Debug\sendandreceive.exe
+D:\engineer program（course design）\sendandreceive\sendandreceive\bin\Debug\sendandreceive.pdb
+D:\engineer program（course design）\sendandreceive\sendandreceive\obj\Debug\sendandreceive.csprojResolveAssemblyReference.cache
+D:\engineer program（course design）\sendandreceive\sendandreceive\obj\Debug\sendandreceive.Properties.Resources.resources
+D:\engineer program（course design）\sendandreceive\sendandreceive\obj\Debug\sendandreceive.csproj.GenerateResource.Cache
+D:\engineer program（course design）\sendandreceive\sendandreceive\obj\Debug\sendandreceive.exe
+D:\engineer program（course design）\sendandreceive\sendandreceive\obj\Debug\sendandreceive.pdb
+D:\engineer program（course design）\sendandreceive\sendandreceive\obj\Debug\sendandreceive.client.resources
+D:\engineer program（course design）\sendandreceive\sendandreceive\bin\Debug\LumiSoft.Net.dll
